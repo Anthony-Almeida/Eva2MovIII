@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "784390988840",
+    "firebase_url": "https://banco-app-67d79-default-rtdb.firebaseio.com",
+    "project_id": "banco-app-67d79",
+    "storage_bucket": "banco-app-67d79.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784390988840:android:33426e869f5b993272c11d",
+        "android_client_info": {
+          "package_name": "com.example.banco_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE4KEZRibTg1cqEndh27Uw2I1iSDoxjCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
